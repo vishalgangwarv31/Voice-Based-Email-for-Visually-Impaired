@@ -1,38 +1,16 @@
 # Voice-Based-Email-for-Visually-Impaired  
-
-<p align="center">
- <img src="https://user-images.githubusercontent.com/54893688/120467228-928ecf00-c3bd-11eb-9efa-24858b488b90.png" border="0" width="260" height="280" /></p>
-<p align="center">
   
 **Open-Source Voice Based Emailing System for Visually Impaired.**
   
 ## About
 
-[This project](https://github.com/Dikshabisht7/Voice-Based-Email-for-Visually-Impaired/blob/main/voice_based_mail_for_visually_impaired.ipynb) is a `python-based` application that uses speech to text voice response to enable visually impaired people to manage their email accounts with their voice
+This is a `python-based` application that uses speech to text voice response to enable visually impaired people to manage their email accounts with their voice
 alone, as well as read, send, and perform all other useful tasks. The system will prompt voice commands to the user to perform a specific action, and the user will 
 respond accordingly. The main advantage of this project is that it eliminates the use of a mouse; instead, the user will have to respond through voice only.  
 
-## Features
 
-1. [Compose email via voice](https://github.com/Dikshabisht7/Voice-Based-Email-for-Visually-Impaired/blob/main/compose_mail.ipynb)
-2. [Count total number of mails](https://github.com/Dikshabisht7/Voice-Based-Email-for-Visually-Impaired/blob/main/total_number_mails.ipynb)  
-3. [Count number of unseen mails](https://github.com/Dikshabisht7/Voice-Based-Email-for-Visually-Impaired/blob/main/total_number_unseen_mails.ipynb)  
-4. [Fetch unseen mails](https://github.com/Dikshabisht7/Voice-Based-Email-for-Visually-Impaired/blob/main/unseen_mails.ipynb)  
-5. [Fetch sent mails](https://github.com/Dikshabisht7/Voice-Based-Email-for-Visually-Impaired/blob/main/sent_mails.ipynb)
-6. [Read latest mail](https://github.com/Dikshabisht7/Voice-Based-Email-for-Visually-Impaired/blob/main/latest_mail.ipynb)  
-
-## Windows Installation  
-
-  `C:\Users\Diksha>git clone https://github.com/Dikshabisht7/Voice-Based-Email-for-Visually-Impaired.git`
-
-  `C:\Users\Diksha>cd Voice-Based-Email-for-Visually-Impaired`
-  
-  `C:\Users\Diksha>python3 -m pip install -r requirements.txt`
-
-  `C:\Users\Diksha>python3 voice_based_mail_for_visually_impaired.py`
 
 ## Installers 
-
 - ### gTTS 
 
     gTTS (Google Text-to-Speech), a Python library and CLI tool to interface with Google Translate's text-to-speech API. Write spoken mp3 data to a file, 
